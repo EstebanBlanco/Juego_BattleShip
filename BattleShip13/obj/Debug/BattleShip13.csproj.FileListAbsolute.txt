@@ -1,0 +1,59 @@
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\bin\Debug\BattleShip13.exe.config
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\obj\Debug\BattleShip13.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Properties.Resources.resources
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Vista.opciones.resources
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\obj\Debug\BattleShip13.csproj.GenerateResource.Cache
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\bin\Debug\BattleShip13.exe
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\bin\Debug\BattleShip13.pdb
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\bin\Debug\nunit.framework.dll
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\bin\Debug\nunit.framework.xml
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\bin\Debug\SwiPlCs.xml
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\obj\Debug\BattleShip13.exe
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\obj\Debug\BattleShip13.pdb
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Vista.BattleShip.resources
+C:\Users\Carlos Mario\Documents\Visual Studio 2013\Projects\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Vista.Sea.resources
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\bin\Debug\BattleShip13.exe.config
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\obj\Debug\BattleShip13.exe
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\obj\Debug\BattleShip13.pdb
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\bin\Debug\BattleShip13.exe
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\bin\Debug\BattleShip13.pdb
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\bin\Debug\nunit.framework.dll
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\bin\Debug\nunit.framework.xml
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\bin\Debug\SwiPlCs.xml
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\obj\Debug\BattleShip13.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\obj\Debug\BattleShip13.Properties.Resources.resources
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\obj\Debug\BattleShip13.Vista.BattleShip.resources
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\obj\Debug\BattleShip13.Vista.opciones.resources
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\obj\Debug\BattleShip13.Vista.Sea.resources
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13 Version Carlos\BattleShip13\obj\Debug\BattleShip13.csproj.GenerateResource.Cache
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\BattleShip13.exe.config
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.exe
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.pdb
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\BattleShip13.exe
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\BattleShip13.pdb
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\nunit.framework.dll
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\nunit.framework.xml
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\SwiPlCs.xml
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Properties.Resources.resources
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Vista.BattleShip.resources
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Vista.opciones.resources
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Vista.Sea.resources
+C:\Users\Carlos Mario\Documents\Documentos de la U\Cuarto Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.csproj.GenerateResource.Cache
+C:\Users\esteb\Downloads\BattleShip13\BattleShip13\bin\Debug\BattleShip13.exe.config
+C:\Users\esteb\Downloads\BattleShip13\BattleShip13\obj\Debug\BattleShip13.exe
+C:\Users\esteb\Downloads\BattleShip13\BattleShip13\obj\Debug\BattleShip13.pdb
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\BattleShip13.exe.config
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.exe
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.pdb
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\BattleShip13.exe
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\BattleShip13.pdb
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\nunit.framework.dll
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\nunit.framework.xml
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\bin\Debug\SwiPlCs.xml
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Properties.Resources.resources
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Vista.BattleShip.resources
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Vista.opciones.resources
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.Vista.Sea.resources
+C:\Users\esteb\Documents\TEC\IV Semestre\Lenguajes de Programación\Proyecto 3\BattleShip13\BattleShip13\obj\Debug\BattleShip13.csproj.GenerateResource.Cache
